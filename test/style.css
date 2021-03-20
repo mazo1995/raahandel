@@ -34,6 +34,7 @@
   padding-bottom: 12px;
   text-align: center;
   color: #F0EADA;
+  background: none;
 }
 .sidebar_header{
   display: flex;
