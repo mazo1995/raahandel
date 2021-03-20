@@ -52,7 +52,6 @@
   /* The button used to open the sidebar */
   .openbtn {
     cursor: pointer;
-    background: url('../test/images/shopping-cart.png');
     width: 25%;
     height: 25%;
     border: none;
