@@ -22,7 +22,7 @@
     background-color: #4C85AE; /* Black*/
     overflow-x: hidden; /* Disable horizontal scroll */
     padding-top: 60px; /* Place content 60px from the top */
-    transition: 0.5s; /* 0.5 second transition effect to slide in the sidebar */
+    transition: 0.2s; /* 0.5 second transition effect to slide in the sidebar */
     font-family: 'Montserrat';font-size: 22px;
   }
 .sidebar_header{
