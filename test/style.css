@@ -63,6 +63,8 @@
 .gtk_btn:hover{
   color: #F0EADA;
   background-color:#4C85AE;
+  text-decoration: none;
+  text-shadow: #4a4a4a;
 }
 .sidebar_body{
   background: none;
