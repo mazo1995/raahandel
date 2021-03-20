@@ -26,6 +26,10 @@
   }
 .sidebar_header{
   background: none;
+  box-shadow: 0 3px 6px rgb(0 0 0 / 16%);
+  height: 159px;
+  position: relative;
+  z-index: 5;
 
 } 
 .sidebar_body{
