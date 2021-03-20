@@ -30,8 +30,12 @@
   height: 159px;
   position: relative;
   z-index: 5;
-
+  
 } 
+.gtk_btn{
+  
+
+}
 .sidebar_body{
   background: none;
 
