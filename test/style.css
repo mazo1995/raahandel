@@ -55,6 +55,7 @@
     cursor: pointer;
     background: url('../test/images/shopping-cart.png');
     color: white;
+    padding: 10px 15px;
     border: none;
   }
   
