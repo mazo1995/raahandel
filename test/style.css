@@ -43,7 +43,7 @@
   /* Position and style the close button (top right corner) */
   .sidebar .closebtn {
     position: absolute;
-    bottom: 5;
+    top: 0.2;
     left: 5px;
     font-size: 48px;
     margin-right: 50px;
