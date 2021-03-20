@@ -47,12 +47,12 @@
 .gtk_btn {
   
   position: relative;
-  background-color: #F0EADA;
-  margin: 10px 15px 0;
+  background-color: ;
+
   font-family: 'Montserrat';font-size: 12px;
-  background-color:#44c767;
-	border-radius:28px;
-	border:1px solid #18ab29;
+  background-color:#F0EADA;
+	border-radius:22px;
+	border:1px solid #4C85AE;
 	display:inline-block;
 	cursor:pointer;
 	color:#ffffff;
