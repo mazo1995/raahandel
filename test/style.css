@@ -25,6 +25,9 @@
     transition: 0.2s; /* 0.5 second transition effect to slide in the sidebar */
     font-family: 'Montserrat';font-size: 12px;
   }
+.sidebar p {
+  font-family: 'Montserrat';font-size: 16px;
+}
 .sidebar_header{
   background: none;
   box-shadow: 0 3px 6px rgb(0 0 0 / 16%);
