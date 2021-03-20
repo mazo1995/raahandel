@@ -65,7 +65,7 @@
   
   /* Style page content - use this if you want to push the page content to the right when you open the side navigation */
   #main {
-    transition: margin-left .5s; /* If you want a transition effect */
+    transition: margin-right .5s; /* If you want a transition effect */
     padding: 20px;
   }
   
