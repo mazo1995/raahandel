@@ -46,10 +46,8 @@
 .gtk_btn {
   padding: 5px;
   position: relative;
-  background-color: ;
-
+  background-color: #36698d;
   font-family: 'Montserrat';font-size: 12px;
-  background-color:#F0EADA;
 	border-radius:22px;
 	border:1px solid #4C85AE;
 	display:inline-block;
