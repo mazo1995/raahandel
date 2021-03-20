@@ -40,7 +40,7 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  background: none;
+  background-color: #4C85AE;
   box-shadow: 0 3px 6px rgb(0 0 0 / 16%);
   position: relative;
   z-index: 5;
