@@ -60,7 +60,7 @@
   .openbtn:hover {
     background-color: #444;
   }
-  .openbtn img{
+  .openbtn .img{
       width: 2px;
       height: 2px;
   }
