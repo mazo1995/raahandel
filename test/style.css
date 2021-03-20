@@ -55,10 +55,10 @@
     border: none;
     width: 2.5%;
     height: auto;
-    position: static; /* Stay in place */
+    position: fixed; /* Stay in place */
     z-index: 1; /* Stay on top */
     top: 25;
-    right: 25;
+    right: 40;
   }
   
 
