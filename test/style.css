@@ -34,13 +34,12 @@
   padding-bottom: 12px;
   text-align: center;
   color: #F0EADA;
-  background: none;
 }
 .sidebar_header{
   display: flex;
   justify-content: center;
   align-items: center;
-  background-color: none;
+  background: none;
   box-shadow: 0 3px 6px rgb(0 0 0 / 16%);
   position: relative;
   z-index: 5;
