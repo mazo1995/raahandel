@@ -27,7 +27,6 @@
     
   }
 .sidebar p {
-  position: absolute;
   font-family: 'Montserrat';font-size: 16px;
   padding-left: 12px;
   padding-right: 0px;
@@ -44,7 +43,7 @@
   font-family: 'Montserrat';font-size: 12px;
 } 
 .gtk_btn {
-  position: absolute;
+  position: relative;
   background-color: #F0EADA;
   margin: 10px 15px 0;
   font-family: 'Montserrat';font-size: 12px;
