@@ -24,7 +24,14 @@
     padding-top: 60px; /* Place content 60px from the top */
     transition: 0.5s; /* 0.5 second transition effect to slide in the sidebar */
   }
-  
+.sidebar_header{
+  background: none;
+
+} 
+.sidebar_body{
+  background: none;
+
+} 
   /* The sidebar links */
   .sidebar a {
     padding: 8px 8px 8px 32px;
