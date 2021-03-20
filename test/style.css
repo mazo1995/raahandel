@@ -37,7 +37,7 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  background: none;
+  background-color: none;
   box-shadow: 0 3px 6px rgb(0 0 0 / 16%);
   height: 0.2%;
   position: relative;
