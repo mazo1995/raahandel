@@ -53,7 +53,8 @@
   .openbtn {
     cursor: pointer;
     border: none;
-    
+    width: 5%;
+    height: auto;
   }
   
   .openbtn:hover {
