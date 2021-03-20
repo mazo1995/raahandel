@@ -113,7 +113,7 @@
     right: 25;
     background: none;
     font-family: 'Montserrat';font-size: 12px;
-    background-color: #4C85AE;
+    
   }
   
 
@@ -122,11 +122,14 @@
   #main {
     transition: margin-right .5s; /* If you want a transition effect */
     padding: 20px;
+    background-color: #4C85AE;
     
   }
   
   /* On smaller screens, where height is less than 450px, change the style of the sidenav (less padding and a smaller font size) */
   @media screen and (max-height: 450px) {
-    .sidebar {padding-top: 15px;}
-    .sidebar a {font-size: 18px;}
+    .sidebar {padding-top: 15px;
+      background-color: #4C85AE;}
+    .sidebar a {font-size: 18px;
+      background-color: #4C85AE;}
   }
