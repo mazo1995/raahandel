@@ -58,9 +58,10 @@
 	color: #4a4a4a;;
 	padding:16px 31px;
 	text-decoration:none;
-	text-shadow:0px 1px 0px #F0EADA;
+	text-shadow:0px 1px 0px #4a4a4a;
 }
 .gtk_btn:hover{
+  color: #F0EADA;
   background-color:#4C85AE;
 }
 .sidebar_body{
