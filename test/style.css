@@ -41,6 +41,7 @@
   font-family: 'Montserrat';font-size: 12px;
 } 
 .gtk_btn {
+  text-align: center;
   background-color: #F0EADA;
   padding-left: 60px;
   padding-right: 60px;
