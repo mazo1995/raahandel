@@ -55,7 +55,7 @@
     border: none;
     width: 2.5%;
     height: auto;
-    position: fixed; /* Stay in place */
+    position: relative; /* Stay in place */
     z-index: 1; /* Stay on top */
     top: 25;
     right: 25;
