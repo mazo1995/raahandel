@@ -53,8 +53,8 @@
   .openbtn {
     cursor: pointer;
     background: url('../test/images/shopping-cart.png');
-    width: 20px;
-    height: 20px;
+    width: 25%;
+    height: 25%;
     border: none;
   }
   
