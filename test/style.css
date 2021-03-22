@@ -87,6 +87,7 @@ form .textarea textarea{
     padding: 0 20px;
     line-height: 45px;
     transition: all 0.3s ease;
+
 }
 form .field input:focus
 form .textarea textarea:focus{
@@ -103,10 +104,12 @@ form .field button{
     cursor: pointer;
     position: relative;
     z-index: 1;
+
 }
 form .field button:hover{
     color: #2A2A2A;
     cursor: pointer;
+
 }
 form .field button:before{
     transition: 0.5s all ease;
@@ -128,14 +131,17 @@ form .field button:hover:before{
     right: 0;
     opacity: 1;
     z-index: -1;
+
 }
 .chat-box form .textarea{ 
     height: 70px;
     width: 100%;
+
 }
 .chat-box form .textarea textarea{
     text-align: left;
     height: 100%;
+    
 }
 form .field input::placeholder,
 form .textarea textarea::placeholder{
