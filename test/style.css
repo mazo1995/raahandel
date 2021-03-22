@@ -32,7 +32,7 @@
     border-radius: 15px 15px 0 0;
     padding: 0 20px;
     font-weight: 500;
-    font-size: 15px;
+    font-size: 20px;
     background: -webkit-linear-gradient(left,#16639f, #aedbff);
 
 }
@@ -98,7 +98,6 @@ form .field button{
     background-color: #16639f;
     color: #fff;
     margin-top: 20px;
-    box-shadow: inset 0 0 0 0 #F0EADA;
     transition: ease-out 0.3;
     outline: none;
     cursor: pointer;
@@ -121,7 +120,7 @@ form .field button:before{
     bottom: 0;
     opacity: 0;
     content: "";
-    background-color: F0EADA;
+    background-color: #aedbff;
     color:#2A2A2A;
 
 }
