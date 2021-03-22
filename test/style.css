@@ -87,11 +87,33 @@ background-color: #4C85AE;
 .mySidebar_box_1{
   box-sizing: border-box;
   display: inline-block;
-  float: left;
+  position: relative;
   width: 250px;
   height: 58px;  
   background-color: #4C85AE
 }
+.mySidebar_image_1 h3{
+  display: inline;
+  font-family: 'Montserrat';font-size: 16px;
+  text-decoration: none;
+  color: #F0EADA;
+  background-color: #4C85AE;
+}
+.mySidebar_image_1 h4{
+  display: inline;
+  font-family: 'Montserrat';font-size: 14px;
+  text-decoration: none;
+  color: #F0EADA;
+  background: #4C85AE;
+}
+.mySidebar_image_1 p{
+  display: inline;
+  font-family: 'Montserrat';font-size: 12px;
+  text-decoration: none;
+  color: #F0EADA;
+  background-color: #4C85AE;
+}
+
   .mySidebar_image_1{
     display: inline;
     padding: 2px;
@@ -101,12 +123,6 @@ background-color: #4C85AE;
     display: inline;
     padding: 2px;
     background-color: #4C85AE;
-  }
-  .mySidebar_image_1 p{
-    display: inline;
-    font-family: 'Montserrat';font-size: 14px;
-    text-decoration: none;
-    color: #F0EADA;
   }
 
 
