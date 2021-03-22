@@ -102,9 +102,11 @@ form .field button{
     transition: ease-out 0.3;
     outline: none;
     cursor: pointer;
+    font-weight: 500px;
+    font-size: 16px;
 }
 form .field button:hover{
-    box-shadow: inset 300px 0 0 0 #aedbff;
+    box-shadow: inset 400px 0 0 0 #aedbff;
     color: black;
 }
 
