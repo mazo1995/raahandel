@@ -1,5 +1,7 @@
 *{
     background-color: #F0EADA;
+    font-family: 'Montserrat'; 
+    
 }
 .bg{
     background-image: url('../test/images/bg_pattern_global.svg');
@@ -9,4 +11,89 @@
     width: 100%;
     height: 95%;
 
+}
+.field{
+    background-color: #fff;
+
+}
+.wrapper{
+    position: absolute;
+    right: 30px;
+    bottom: 85px;
+    max-width: 400px;
+    background-color: #fff;
+    border-radius: 15px;
+    box-shadow: 0px 15px 20px rgba(0,0,0,0.1);
+
+}
+.wrapper .head-text{
+    line-height: 60px;
+    color: #fff;
+    border-radius: 15px 15px 0 0;
+    padding: 0 20px;
+    font-weight: 500;
+    font-size: 15px;
+    background: -webkit-linear-gradient(left,#4C85AE, #aac3d4);
+
+}
+.wrapper .chat-box{
+    padding: 30px;
+    width: auto;
+    background-color: #fff;
+    box-shadow: 0px 15px 20px rgba(0,0,0,0.1);
+    border-style: none;
+    border-radius: 15px;
+
+}
+.chat-box .desc-text{
+    color: #515365;
+    text-align: center;
+    line-height: 25px;
+    font-size: 17px;
+    font-weight: 500;
+    background-color: #fff;
+
+}
+.chat-box form{
+    padding: 10px 15px;
+    margin: 30px 0;
+    border-radius: 25px 25px 25px 25px;
+    border: 1px solid lightgrey;
+    background-color: #fff;
+
+}
+.chat-box form .field{
+    height: 50px;
+    width: 100%;
+    margin-top: 20px;
+
+}
+.chat-box form .field:last-child{
+    margin-top: 20px;
+    padding-bottom: 30px;
+
+}
+form .field input,
+form .field button,
+form .textarea textarea{
+    width: 100%;
+    height: 100%;
+    border: 1px solid lightgray;
+    outline: none;
+    border-radius: 25px;
+    background-color: #fff;
+    font-size: 14px;
+    padding: 0 20px;
+    line-height: 45px;
+
+}
+form .field button{
+    background-color: #16639f;
+    color: #fff;
+    margin-top: 20px;
+
+}
+form .textarea textarea{
+    text-align: left;
+    
 }
