@@ -72,6 +72,11 @@
   
 
 } 
+.sidebar_body img{
+ width: 20%;
+ height: 20%;
+
+}
   /* The sidebar links */
   .sidebar a {
     padding: 8px 8px 8px 32px;
