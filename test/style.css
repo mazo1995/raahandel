@@ -16,7 +16,6 @@
     background-color: #fff;
 
 }
-
 label{
     position:fixed;
     right: 30px;
@@ -41,6 +40,13 @@ label i{
     transform: translate(-50%, -50%);
     background: #16639f;
     
+}
+label i.fas{
+    opacity: 0;
+    pointer-events: none;
+}
+#click:checked ~ label i.fas{
+    display: block;
 }
 .wrapper{
     position: absolute;
