@@ -90,7 +90,7 @@ background-color: #4C85AE;
 
 }
 .mySidebar_image_1 p{
-font-family: 'Montserrat';font-size: 12px;
+font-family: 'Montserrat';font-size: 14px;
 text-decoration: none;
 text-shadow:0px 1px 0px #F0EADA;
 color: #F0EADA;
@@ -105,6 +105,13 @@ color: #F0EADA;
   background-color: #4C85AE;
   
 }
+.mySidebar_image_2 p{
+  font-family: 'Montserrat';font-size: 14px;
+  text-decoration: none;
+  text-shadow:0px 1px 0px #F0EADA;
+  color: #F0EADA;
+  
+  }
 .mySidebar_image_3{
   display: block;
   width: 50px;
@@ -113,6 +120,13 @@ color: #F0EADA;
   background-color: #4C85AE;
   
 }
+.mySidebar_image_3 p{
+  font-family: 'Montserrat';font-size: 14px;
+  text-decoration: none;
+  text-shadow:0px 1px 0px #F0EADA;
+  color: #F0EADA;
+  
+  }
   /* The sidebar links */
   .sidebar a {
     padding: 8px 8px 8px 32px;
