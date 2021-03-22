@@ -52,6 +52,7 @@
         background: none;
 }
 
+
 /*-------- SIDEBAR HEADER -------- */
 .sidebar_header{
   display: flex;
@@ -89,7 +90,8 @@
       right: 25;
       background: none;
       font-family: 'Montserrat';font-size: 12px; 
-      }
+}
+
       
 /*-------- GÅ TIL KURV -------- */
 .gtk_btn {
