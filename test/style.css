@@ -109,14 +109,16 @@ form .field button:hover{
 }
 
 .chat-box form .textarea{ 
-    height: 70px;
+    height: 90px;
     width: 100%;
 
 }
 .chat-box form .textarea textarea{
     text-align: left;
     height: 100%;
-    
+    resize: none;
+    padding: 15px 20px;
+    font-size: 16px;
 }
 form .field input::placeholder,
 form .textarea textarea::placeholder{
