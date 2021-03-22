@@ -16,6 +16,13 @@
     background-color: #fff;
 
 }
+li{
+    position: absolute;
+    right: 30px;
+    bottom: 20px;
+    list-style: none;
+    display: inline-block;
+}
 .wrapper{
     position: absolute;
     right: 30px;
