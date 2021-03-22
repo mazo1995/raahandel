@@ -1,6 +1,7 @@
 *{
     background-color: #F0EADA;
     font-family: 'Montserrat'; 
+    
 }
 .bg{
     background-image: url('../test/images/bg_pattern_global.svg');
@@ -13,6 +14,7 @@
 }
 .field{
     background-color: #fff;
+
 }
 .wrapper{
     position: absolute;
@@ -41,6 +43,7 @@
     box-shadow: 0px 15px 20px rgba(0,0,0,0.1);
     border-style: none;
     border-radius: 15px;
+
 }
 .chat-box .desc-text{
     color: #515365;
@@ -52,7 +55,6 @@
 
 }
 .chat-box form{
-    
     padding: 10px 15px;
     margin: 30px 0;
     border-radius: 25px 25px 25px 25px;
@@ -69,6 +71,7 @@
 .chat-box form .field:last-child{
     margin-top: 20px;
     padding-bottom: 30px;
+
 }
 form .field input,
 form .field button,
