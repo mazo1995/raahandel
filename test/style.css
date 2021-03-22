@@ -16,12 +16,15 @@
     background-color: #fff;
 
 }
-li{
+label{
     position: absolute;
     right: 30px;
     bottom: 20px;
     list-style: none;
     display: inline-block;
+    height: 55px;
+    width: 55px;
+    background: -webkit-linear-gradient(left,#16639f, #aedbff);
 }
 .wrapper{
     position: absolute;
