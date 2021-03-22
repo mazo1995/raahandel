@@ -81,10 +81,7 @@ background-color: #4C85AE;
   background-color: #4C85AE;
 }
 .mySidebar_image_1{
-  font-family: 'Montserrat';font-size: 12px;
-  text-decoration: none;
-  text-shadow:0px 1px 0px #F0EADA;
-  color: #F0EADA;
+
   display: block;
   width: 50px;
   height: 50px;
@@ -92,6 +89,15 @@ background-color: #4C85AE;
   background-color: #4C85AE;
 
 }
+.mySidebar_image_1 p{
+
+font-family: 'Montserrat';font-size: 12px;
+text-decoration: none;
+text-shadow:0px 1px 0px #F0EADA;
+color: #F0EADA;
+
+}
+
 .mySidebar_image_2{
   display: block;
   width: 50px;
