@@ -101,6 +101,11 @@ form .field button{
     transition: ease-out 0.3;
     outline: none;
     cursor: pointer;
+
+}
+form .field button:hover{
+    color: #fff;
+    cursor: pointer;
 }
 .chat-box form .textarea{ 
     height: 70px;
