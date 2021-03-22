@@ -62,7 +62,16 @@
   position: relative;
   z-index: 5;
   } 
-   .sidebar .closebtn {
+  .sidebar p {
+    background-color: #4C85AE;
+    padding-left: 5%;
+    padding-right: 0px;
+    padding-bottom: 12px;
+    text-align: center;
+    color: #F0EADA;
+    background: none;
+    }
+   .main .closebtn {
     position: absolute;
     top: 0.2;
     left: 5px;
@@ -81,17 +90,6 @@
       font-family: 'Montserrat';font-size: 12px; 
       }
       
-
-
-.sidebar p {
-  background-color: #4C85AE;
-  padding-left: 5%;
-  padding-right: 0px;
-  padding-bottom: 12px;
-  text-align: center;
-  color: #F0EADA;
-  background: none;
-  }
 /*-------- GÅ TIL KURV -------- */
 .gtk_btn {
   padding: 5px;
