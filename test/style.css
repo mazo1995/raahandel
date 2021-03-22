@@ -28,7 +28,6 @@
   }
 .sidebar p {
   background-color: #4C85AE;
-  font-family: 'Montserrat';font-size: 16px;
   padding-left: 12px;
   padding-right: 0px;
   padding-top: 12px;
@@ -91,7 +90,7 @@ background-color: #4C85AE;
   height: 58px;  
   background-color: #4C85AE
 }
-.product-1{
+.product-1 p{
   display: inline;
   font-family: 'Montserrat';
   font-size: 18px;
@@ -99,23 +98,6 @@ background-color: #4C85AE;
   color: #F0EADA;
   background-color: #4C85AE;
 }
-.product-2{
-  display: inline;
-  font-family: 'Montserrat';
-  font-size: 12px;
-  text-decoration: none;
-  color: #F0EADA;
-  background: #4C85AE;
-}
-.product-3{
-  display: inline;
-  font-family: 'Montserrat';
-  font-size: 6px;
-  text-decoration: none;
-  color: #F0EADA;
-  background-color: #4C85AE;
-}
-
   .mySidebar_image_1{
     display: inline;
     padding: 2px;
