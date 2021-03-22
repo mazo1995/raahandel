@@ -105,7 +105,7 @@ form .field button{
     z-index: 1;
 }
 form .field button:hover{
-    color: #fff;
+    color: #2A2A2A;
     cursor: pointer;
 }
 form .field button:before{
@@ -119,6 +119,7 @@ form .field button:before{
     opacity: 0;
     content: "";
     background-color: F0EADA;
+    color:#2A2A2A;
 
 }
 form .field button:hover:before{
