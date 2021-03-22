@@ -82,6 +82,11 @@ background-color: #4C85AE;
   background-color: #4C85AE;
 }
 .mySidebar_image_1{
+  box-sizing: border-box;
+  width: 300px;
+  height: 100px;
+  padding: 30px;  
+  border: 10px solid blue;
   display: flex;
   flex: row;
   width: 50px;
