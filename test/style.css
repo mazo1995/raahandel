@@ -82,8 +82,9 @@ label .fas{
     opacity: 0;
     pointer-events: none;
 }
-#click:checke ~ .wrapper{
+#click:checked ~ .wrapper{
     opacity: 1;
+    bottom: 85px;
 }
 .wrapper .head-text{
     line-height: 60px;
