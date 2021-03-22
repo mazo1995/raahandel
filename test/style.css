@@ -91,18 +91,23 @@ form .textarea textarea{
 form .field input:focus
 form .textarea textarea:focus{
     border-color: #2600ff;
+    
 }
 form .field button{
     background-color: #16639f;
     color: #fff;
     margin-top: 20px;
+    cursor: pointer;
+    transition-duration: 0.4s;
 
 }
-form .textarea textarea{
-    text-align: left;
+.chat-box form .textarea{ 
     height: 70px;
     width: 100%;
-
+}
+.chat-box form .textarea textarea{
+    text-align: left;
+    height: 100%;
 }
 form .field input::placeholder,
 form .textarea textarea::placeholder{
@@ -110,3 +115,5 @@ form .textarea textarea::placeholder{
     transition: all 0.3s ease;
 
 }
+
+    
