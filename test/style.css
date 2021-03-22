@@ -98,9 +98,8 @@ form .textarea textarea{
     
 }
 form .field input::placeholder,
-form . textarea textarea::placeholder{
+form .textarea textarea::placeholder{
     color: silver;
-    transition: all 0.3s ease;
 
 }
 form .field input:focus
