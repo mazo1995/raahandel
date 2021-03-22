@@ -62,14 +62,14 @@ label .fas{
     opacity: 1;
     pointer-events: auto;
     position: absolute;
-    transform: translate(-50%, -50%) rotate(180deg);
+    transform: translate(-50%, -50%) rotate(180deg); /*Rotation af x-icon*/
     
 }
 #click:checked ~ label i.fa{
     opacity: 0;
     pointer-events: none;
     position: absolute;
-    transform: translate(-50%, -50%) rotate(180deg);
+    transform: translate(-50%, -50%) rotate(180deg); /*Rotation af chat-icon*/
 }
 .wrapper{
     position: absolute;
