@@ -71,10 +71,11 @@
     color: #F0EADA;
     background: none;
     }
-   .main .closebtn {
+   .sidebar .closebtn {
     position: absolute;
-    top: 0.2;
+    top: 10;
     left: 5px;
+    z-index: 1;
     font-size: 48px;
     margin-right: 50px;
     background: none;
@@ -228,7 +229,6 @@
 #main {
  transition: margin-right .5s; 
  padding: 20px;
- background-color: #4C85AE;
 }
 
 
