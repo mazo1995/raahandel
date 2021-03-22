@@ -45,9 +45,6 @@ label i.fas{
     opacity: 0;
     pointer-events: none;
 }
-#click:checked ~ label i.fas{
-    display: block;
-}
 .wrapper{
     position: absolute;
     right: 30px;
