@@ -97,8 +97,7 @@ form .textarea textarea{
     text-align: left;
     
 }
-form .field input::placeholder,
-form . textarea textarea::placeholder{
-    color: silver;
-    transition: all 0.3s ease;
+form .field input:focus
+form .textarea textarea:focus{
+
 }
