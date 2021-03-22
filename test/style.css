@@ -1,7 +1,7 @@
 *{
     background-color: #F0EADA;
     font-family: 'Montserrat'; 
-    
+
 }
 .bg{
     background-image: url('../test/images/bg_pattern_global.svg');
@@ -96,4 +96,9 @@ form .field button{
 form .textarea textarea{
     text-align: left;
     
+}
+form .field input::placeholder,
+form . textarea textarea::placeholder{
+    color: silver;
+    transition: all 0.3s ease;
 }
