@@ -39,9 +39,30 @@ label i{
     left: 30%;
     transform: translate(-50%, -50%);
     background: #16639f;
-    
+    transition: all 0.4s;
 }
 label i.fas{
+    opacity: 0;
+    pointer-events: none;
+    position:absolute;
+    right: 30px;
+    bottom: 20px;
+    display: inline-block;
+    height: 55px;
+    width: 55px;
+    text-align: center;
+    line-height: 55px;
+    border-radius: 50px;
+    font-size: 30px;
+    cursor: pointer;
+    background-color: none;
+}
+#click:checked ~ label i.fas{
+    opacity: 1;
+    pointer-events: auto;
+    transform: translate(-50%, -50%); rotate:(180deg);
+}
+#click:checked ~ label i.fa{
     opacity: 0;
     pointer-events: none;
 }
