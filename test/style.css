@@ -109,7 +109,35 @@ background-color: #4C85AE;
     padding: 2px;
     background-color: #4C85AE;
   }
-
+  .mySidebar_box_2{
+    box-sizing: border-box;
+    display: flex;
+    text-align: center;
+    position: relative;
+    width: 250px;
+    height: 58px;  
+    background-color: #4C85AE
+  }
+  .product-2 p{
+    display: flex;
+    width: 50%;
+    font-family: 'Montserrat';
+    font-size: 18px;
+    text-decoration: none;
+    color: #F0EADA;
+    background-color: #4C85AE;
+  }
+    .mySidebar_image_2{
+      display: flex;
+      width 50%;
+      padding: 2px;
+      background-color: #4C85AE;
+    }
+    .mySidebar_image_2 img{
+      padding: 2px;
+      background-color: #4C85AE;
+    }
+  
 
 
 
