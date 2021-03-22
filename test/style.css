@@ -87,7 +87,6 @@ background-color: #4C85AE;
 .mySidebar_box_1{
   box-sizing: border-box;
   display: inline-block;
-  
   width: 250px;
   height: 58px;  
   background-color: #4C85AE
@@ -102,14 +101,14 @@ background-color: #4C85AE;
     padding: 2px;
     background-color: #4C85AE;
   }
-    .mySidebar_image_1 p{
+  .mySidebar_image_1 p{
     padding: 2px;
     display: inline-block;
     font-family: 'Montserrat';font-size: 14px;
     text-decoration: none;
     text-shadow:0px 1px 0px #F0EADA;
     color: #F0EADA;
-    }
+  }
 
 
 
