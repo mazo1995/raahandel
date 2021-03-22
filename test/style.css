@@ -51,6 +51,12 @@ label i.fas{
     opacity: 0;
     pointer-events: none;
 }
+label .fas{
+    position:fixed;
+    display: inline-block;
+    height: 20px;
+    width: 30px;
+}
 #click:checked ~ label i.fas{
     opacity: 1;
     pointer-events: auto;
