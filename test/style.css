@@ -32,7 +32,6 @@
     font-weight: 500;
     font-size: 15px;
     background: -webkit-linear-gradient(left,#4C85AE, #aac3d4);
-    
 
 }
 .wrapper .chat-box{
@@ -50,7 +49,6 @@
     font-size: 17px;
     font-weight: 500;
     background-color: #fff;
-
 
 }
 .chat-box form{
@@ -84,6 +82,7 @@ form .textarea textarea{
     font-size: 14px;
     padding: 0 20px;
     line-height: 45px;
+
 }
 form .field button{
     background-color: #16639f;
