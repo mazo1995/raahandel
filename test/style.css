@@ -53,9 +53,10 @@ label i.fas{
 }
 label .fas{
     position:fixed;
-    display: inline-block;
-    height: 20px;
+    display: block;
+    height: 30px;
     width: 30px;
+    left: 27px;
 }
 #click:checked ~ label i.fas{
     opacity: 1;
