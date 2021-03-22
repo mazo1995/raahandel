@@ -44,7 +44,7 @@ label i{
     left: 30%;
     transform: translate(-50%, -50%);
     background: transparent;
-    transition: all 0.4s;
+    transition: all 0.4s ease;
  
 }
 label i.fas{
@@ -68,6 +68,8 @@ label .fas{
 #click:checked ~ label i.fa{
     opacity: 0;
     pointer-events: none;
+    transform: translate(-50%, -50%); rotate:(180deg);
+    position: absolute;
 }
 .wrapper{
     position: absolute;
