@@ -83,14 +83,10 @@ background-color: #4C85AE;
 }
 .mySidebar_image_1{
   box-sizing: border-box;
-  width: 300px;
+  width: 100px;
   height: 100px;
   padding: 30px;  
   border: 10px solid blue;
-  display: flex;
-  flex: row;
-  width: 50px;
-  height: 50px;
   padding: 2.5%;
   background-color: #4C85AE;
 
