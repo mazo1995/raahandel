@@ -102,7 +102,6 @@ form .field button{
     transition: ease-out 0.3;
     outline: none;
     cursor: pointer;
-    text-align: left;
 }
 form .field button:hover{
     box-shadow: inset 300px 0 0 0 #aedbff;
