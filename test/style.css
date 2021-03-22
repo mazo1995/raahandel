@@ -97,6 +97,9 @@ form .field button{
     background-color: #16639f;
     color: #fff;
     margin-top: 20px;
+    box-shadow: inset 0 0 0 0 #F0EADA;
+    transition: ease-out 0.3;
+    outline: none;
     cursor: pointer;
 
 }
