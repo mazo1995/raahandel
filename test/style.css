@@ -103,6 +103,10 @@ form .field button{
     cursor: pointer;
 
 }
+form .field button:hover{
+    box-shadow: inset 300px 0 0 0 #aedbff;
+    color: black;
+}
 .chat-box form .textarea{ 
     height: 70px;
     width: 100%;
