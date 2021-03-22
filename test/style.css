@@ -102,6 +102,7 @@ color: #F0EADA;
 
 .mySidebar_image_2{
   display: flex;
+  flex: row;
   width: 50px;
   height: 50px;
   padding: 2.5%;
@@ -109,6 +110,8 @@ color: #F0EADA;
   
 }
 .mySidebar_image_2 p{
+  display: flex;
+  flex: row;
   font-family: 'Montserrat';font-size: 14px;
   text-decoration: none;
   text-shadow:0px 1px 0px #F0EADA;
@@ -117,6 +120,8 @@ color: #F0EADA;
   }
 .mySidebar_image_3{
   display: flex;
+  flex: row;
+  display: flex;
   width: 50px;
   height: 50px;
   padding: 2.5%;
@@ -124,6 +129,8 @@ color: #F0EADA;
   
 }
 .mySidebar_image_3 p{
+  display: flex;
+  flex: row;
   font-family: 'Montserrat';font-size: 14px;
   text-decoration: none;
   text-shadow:0px 1px 0px #F0EADA;
