@@ -55,7 +55,7 @@
 
 }
 .chat-box form{
-    padding: 10px 15px;
+    padding: 5px 15px;
     margin: 30px 0;
     border-radius: 25px 25px 25px 25px;
     border: 1px solid lightgrey;
@@ -86,13 +86,12 @@ form .textarea textarea{
     font-size: 14px;
     padding: 0 20px;
     line-height: 45px;
-
+    transition: all 0.3s ease;
 }
 form .field input:focus
 form .textarea textarea:focus{
-
+    border-color: #2600ff;
 }
-
 form .field button{
     background-color: #16639f;
     color: #fff;
@@ -101,7 +100,9 @@ form .field button{
 }
 form .textarea textarea{
     text-align: left;
-    
+    height: 70px;
+    width: 100%;
+
 }
 form .field input::placeholder,
 form .textarea textarea::placeholder{
