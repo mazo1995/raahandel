@@ -52,7 +52,7 @@ label i.fas{
     pointer-events: none;
 }
 label .fas{
-    position:fixed;
+    position:absolute;
     display: block;
     height: 30px;
     width: 30px;
@@ -61,15 +61,15 @@ label .fas{
 #click:checked ~ label i.fas{
     opacity: 1;
     pointer-events: auto;
-    transform: translate(-50%, -50%); rotate:(180deg);
     position: absolute;
+    transform: translate(-50%, -50%) rotate(180deg);
     
 }
 #click:checked ~ label i.fa{
     opacity: 0;
     pointer-events: none;
-    transform: translate(-50%, -50%); rotate:(180deg);
     position: absolute;
+    transform: translate(-50%, -50%) rotate(180deg);
 }
 .wrapper{
     position: absolute;
