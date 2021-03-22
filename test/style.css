@@ -98,40 +98,17 @@ form .field button{
     background-color: #16639f;
     color: #fff;
     margin-top: 20px;
+    box-shadow: inset 0 0 0 0 #F0EADA;
     transition: ease-out 0.3;
     outline: none;
     cursor: pointer;
-    position: relative;
-    z-index: 1;
-
+    text-align: left;
 }
 form .field button:hover{
-    color: #2A2A2A;
-    cursor: pointer;
-
+    box-shadow: inset 300px 0 0 0 #aedbff;
+    color: black;
 }
-form .field button:before{
-    transition: 0.5s all ease;
-    border-radius: 25px;
-    position: absolute;
-    top: 0;
-    left: 50%;
-    right: 50%;
-    bottom: 0;
-    opacity: 0;
-    content: "";
-    background-color: #aedbff;
-    color:#2A2A2A;
 
-}
-form .field button:hover:before{
-    transition: 0.5s all ease;
-    left: 0;
-    right: 0;
-    opacity: 1;
-    z-index: -1;
-
-}
 .chat-box form .textarea{ 
     height: 70px;
     width: 100%;
